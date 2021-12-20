@@ -1,0 +1,24 @@
+.searchbox{
+  
+
+  &--box{
+    height: min-content;
+    background-color:lightgray;
+    //height: 53px;
+    width: 100%;
+    text-indent: 20px;
+    padding: 16px 16px;
+    color: darkgray;
+    margin-top: 70px;
+   
+  }
+  &--img{
+    width: 30px;
+    height: 30px;
+    padding: 10px 10px;
+    border: 1px solid gray;
+    margin-left: 0px;
+    margin-top: 70px;
+  }
+
+}
